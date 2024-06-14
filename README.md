@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ignacio [@ignacio-hivemind](https://github.com/ignacio-hivemind), I work at Hivemind Technologies AG
+- 👋 Hi, I’m Ignacio [@ignacio-hivemind](https://github.com/ignacio-hivemind), I work at [Hivemind Technologies AG](https://github.com/HivemindTechnologies)
 - 👀 I love pure FP and Scala in particular
 - 🌱 I’m currently learning a little bit of Apache Royale for a project.
 - 💞️ I’m looking to collaborate on all projects of the company
