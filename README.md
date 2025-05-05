@@ -9,7 +9,7 @@
 - ⚡ Hobbies:
   - Watching documentaries or talks on YouTube
   - Reading biographies of cientists, musicians and sports people
-  - Playing the guitar and reading
+  - Playing tennis and the guitar
   
 
 <!---
